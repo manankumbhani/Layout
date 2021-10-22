@@ -1,0 +1,62 @@
+body {
+    font-family: Arial;
+    margin: 2px;
+    background-repeat: no-repeat;
+    background-image: url(../images/background.jpeg);
+    background-size: cover;
+}
+
+.logo {
+    float: left;
+    position: fixed;
+    display: inline-block;
+    width: 53px;
+}
+.header {
+    background-color: #f1f1f1;
+    padding: 20px;
+    text-align: center;
+}
+
+.topnav {
+    overflow: hidden;
+}
+
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #002286;
+    color: #002286;
+}
+
+.column {
+    float: left;
+    width: 47%;
+    padding: 15px;
+}
+
+.row:after {
+    content: "";
+    display: table;
+    clear: both;
+}
+.center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.centerImage{
+    display: block;
+    margin-left: 25%;
+    margin-right: 25%;
+    width: 50%;
+    text-align: center;
+}
