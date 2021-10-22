@@ -1,2 +1,2 @@
 # Homework Assignment: F Layout and Z Layout
-[Layout Website](layout2.eastus.azurecontainer.io)
+[Layout Website](http://layout3.eastus.azurecontainer.io)
